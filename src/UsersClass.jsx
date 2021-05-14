@@ -22,7 +22,7 @@ export default class UsersClass extends Component {
     render() {
         return (
             <div>
-               <h1>Users</h1> 
+               <h1>Users Class</h1> 
                <hr></hr>
                <div>
                    {this.state.users.map(users => <div>

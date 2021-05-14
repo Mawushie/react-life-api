@@ -18,7 +18,7 @@ export default function UsersFunction() {
     })
     return (
         <div>
-               <h1>Users</h1> 
+               <h1>Users Function</h1> 
                <hr></hr>
                <div>
                    {users.map(users => <div>
